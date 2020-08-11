@@ -1,0 +1,27 @@
+{
+  "name": "server-utils",
+  "version": "0.1.0",
+  "description": "server-utils",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rBurgett/server-utils.git"
+  },
+  "author": "Ryan Burgett <ryan@burgettdev.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rBurgett/server-utils/issues"
+  },
+  "homepage": "https://github.com/rBurgett/server-utils#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "fs-extra": "^9.0.1"
+  }
+}
