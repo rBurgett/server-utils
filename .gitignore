@@ -105,3 +105,4 @@ dist
 /public
 .DS_Store
 .idea
+.env.json
